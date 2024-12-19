@@ -1,6 +1,6 @@
 # Conways Game Of Life
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 To run the app: 
 npm install
