@@ -1,0 +1,8 @@
+/* Typically I use styled component, but felt like overkill here: https://mui.com/system/styled/ */
+
+.conwaysGameOfLife {
+    .button {
+        height: 50px;
+        width: 50px;
+    }
+}
