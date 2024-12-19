@@ -166,7 +166,7 @@ export default function ConwaysGameOfLife() {
           <PlayXNumberButton />
         </button>
       </div>
-      <div style={{ display: "flex", gap: "10px" }}>
+      <div style={{ display: "flex", gap: "10px", marginBottom: '10px' }}>
         <button
           data-testid="reset-button"
           onClick={() => {
